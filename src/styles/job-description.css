@@ -1,0 +1,17 @@
+.job-description * {
+  color: inherit !important;
+  background: transparent !important;
+}
+
+.job-description a {
+  color: #45b1e8 !important;
+}
+
+.job-description [style*="font-size"] {
+  font-size: inherit !important;
+}
+
+.job-description {
+  line-height: 1.55;
+  word-break: break-word;
+}
